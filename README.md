@@ -1,4 +1,4 @@
-# Design Potterns in Kotlin
+# Design Patterns in Kotlin
 This repository tries to summarize my studies related to Design Patterns in Kotlin. All markdowns with explanations are listed below.
 
 ### Creational Patterns
