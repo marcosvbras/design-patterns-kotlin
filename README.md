@@ -8,7 +8,7 @@ This repository tries to summarize my studies related to Design Patterns in Kotl
 - [Static Factory Method](patterns/staticFactory.md)
 - Abstract Factory (To be created)
 - [Builder](patterns/builder.md)
-- Prototype (To be created)
+- [Prototype](patterns/prototype.md)
 
 ### Structural Patterns
 - Adapter (To be created)
